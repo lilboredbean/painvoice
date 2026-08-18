@@ -1,0 +1,6 @@
+streamlit>=1.61
+plotly
+torch
+torchaudio
+soundfile
+reportlab
