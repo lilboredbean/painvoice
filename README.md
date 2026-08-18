@@ -1,2 +1,2 @@
 # painvoice
-Multiclass Pain Classification System Using GRU-Mixr
+Multiclass Pain Classification System Using GRU-Mixer
